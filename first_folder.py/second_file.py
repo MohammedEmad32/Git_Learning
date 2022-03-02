@@ -1,1 +1,1 @@
-print(okay guys, this is the second line)
+print("this is the second print line")
